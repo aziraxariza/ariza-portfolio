@@ -407,7 +407,7 @@ function Hero({ setVideoOpen }) {
             color: P.aloewood, maxWidth: 340, fontWeight: 300,
             marginBottom: '2.5rem',
           }}>
-            AI/ML researcher and developer working at the intersection of graph intelligence, adversarial robustness, and cybersecurity.
+            Software Engineer building intelligent systems at the intersection of AI, graph technologies, and security.
           </p>
           <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
             <a href="#work"
